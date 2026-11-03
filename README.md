@@ -1,4 +1,4 @@
-# UniVox — Voice-first campus assistant
+# UniVox — Your voice. Your campus. Your world
 
 A solo-hackathon-sized MEAN stack application. Speak or type a natural-language command; Gemini identifies a supported intent; the Express API validates it and invokes an allow-listed service; Mongoose writes/reads MongoDB; Angular shows the result and (when enabled) speaks the confirmation.
 
